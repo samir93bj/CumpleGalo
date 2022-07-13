@@ -126,8 +126,8 @@ a:hover{
 	text-shadow: 0;
   width: 30px;
   height: 30px;
-  border-bottom: 4px solid #658685;
-  border-right: 4px solid #658685;
+  border-bottom: 4px solid #e6e6e6;
+  border-right: 4px solid #e6e6e6;
   z-index: 9;
   left: calc(50% - 15px);
   -webkit-transform: translate(-50%, 0%) rotate(45deg);
@@ -613,3 +613,4 @@ section.contacto ul li i{
 
 
 }
+
